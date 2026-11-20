@@ -239,6 +239,13 @@ npx playwright test
 - Voice-based tutor
 
 ---
+## Screenshots
+<img width="1895" height="848" alt="Screenshot 2026-11-20 133250" src="https://github.com/user-attachments/assets/ef7350ea-ddad-4ef0-8f2b-ffe9166dfbeb" />
+<img width="1896" height="875" alt="Screenshot 2026-11-20 133427" src="https://github.com/user-attachments/assets/21e74a99-06fd-454d-ab7f-dc28774538ec" />
+<img width="1892" height="846" alt="Screenshot 2026-11-20 133821" src="https://github.com/user-attachments/assets/83f4509f-6f79-414f-82f8-d43f5a4c743e" />
+<img width="1806" height="857" alt="Screenshot 2026-11-20 134000" src="https://github.com/user-attachments/assets/af370be9-9317-41dc-8025-114500f7a132" />
+
+
 
 ## Author
 
