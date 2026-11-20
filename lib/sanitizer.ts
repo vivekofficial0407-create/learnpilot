@@ -82,7 +82,7 @@ export function sanitizeInput(input: string, maxLength = 250): string {
     cleaned = cleaned.slice(0, maxLength).trim();
   }
 
-  return cleaned;
+  return cleaned.trim();
 }
 
 /**
